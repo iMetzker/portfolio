@@ -19,3 +19,13 @@ html {
 ul {
     list-style: none;
 }
+
+span.detailTitle {
+  color: $gray-400;
+}
+
+h1 {
+  font-family: 'Borgen-Bold';
+  text-transform: uppercase;
+  font-size: 6rem;
+}

@@ -6,6 +6,9 @@
   align-items: center;
   justify-content: space-around; 
 
+  font-family: "Roboto", sans-serif;
+  font-size: 1.4rem;
+
   max-width: 1400px;
   margin: 0 auto;
 
@@ -38,4 +41,10 @@
   gap: 1rem;
   padding: 1.3rem;
 
+}
+
+.logo {
+    font-family: 'Heavy';
+    font-size: 3rem;
+    line-height: 23px;
 }

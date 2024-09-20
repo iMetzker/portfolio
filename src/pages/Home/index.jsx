@@ -8,7 +8,7 @@ export function Home() {
     <div className="homeContainer">
       <div className="homeContent">
         <h1>
-          Ivny <span>Xavier</span> Metzker
+          Ivny <span className="detailTitle">Xavier</span> Metzker
         </h1>
         <p>
           Estudante de tecnologia com experiência em desenvolvimento web
@@ -32,8 +32,8 @@ export function Home() {
 
         <div className="detailImage one">💻 Development</div>
         <div className="detailImage two">✨ Ui/Ux Design</div>
-        <div className="detailImage three">🛸 Versatility</div>
-        <div className="detailImage four">🚀 Continuous Learning</div>
+        <div className="detailImage three">🛸 Technology</div>
+        <div className="detailImage four">🚀 Software Engineering</div>
       </div>
     </div>
   );

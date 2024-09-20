@@ -6,7 +6,7 @@ import { SwitchDarkMode } from "./components/SwitchDarkMode";
 export function Header() {
   return (
     <header className="headerContainer">
-      <div>IV</div>
+      <div className="logo">IVY <br /> MZ</div>
       <div className="navbar">
         <ul>
           <li>
