@@ -17,7 +17,7 @@ Esse projeto será desenvolvido com as seguintes tecnologias:
 
 - React;
 - TypeScript;
-- Styled Components;
+- Sass;
 - Git;
 - Zod;
 
