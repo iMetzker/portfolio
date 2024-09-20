@@ -13,7 +13,7 @@ blablablablabla
 - yarn: ^1.22
 
 ## 🛸 Tecnologias
-Esse projeto foi desenvolvido com as seguintes tecnologias:
+Esse projeto será desenvolvido com as seguintes tecnologias:
 
 - React;
 - TypeScript;

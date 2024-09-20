@@ -1,13 +1,14 @@
-function App() {
+import '../src/styles/global.scss'
+
+import { Header } from "./components/Header";
+import { Home } from "./pages/Home";
+
+export function App() {
   return (
     <div className="App">
-      <header className="App-header">
-        <p>
-          Inicio
-        </p>
-      </header>
+      
+      <Header />
+      <Home />
     </div>
   );
 }
-
-export default App;

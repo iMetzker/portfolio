@@ -1,0 +1,41 @@
+@import "../../styles/colors.scss";
+
+.headerContainer {
+  display: flex;
+  flex-direction: row;
+  align-items: center;
+  justify-content: space-around; 
+
+  max-width: 1400px;
+  margin: 0 auto;
+
+  padding: 2rem;
+
+  .navbar ul {
+    display: flex;
+    gap: 3rem;
+    padding: 2rem;
+    border-radius: 2rem;
+
+    background-color: rgb(239, 232, 236, 0.5);
+
+    li a {
+      text-decoration: none;
+      color: $black;
+      font-weight: bold;
+    }
+  }
+
+  .filled-icon {
+    fill: $black;
+  }
+}
+
+.switchHeader {
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  gap: 1rem;
+  padding: 1.3rem;
+
+}
